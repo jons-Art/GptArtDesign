@@ -1,0 +1,2 @@
+rootProject.name = 'GPT_Art_Design'
+include ':app'
